@@ -6,7 +6,7 @@
 
 Group project for the **Ubiquitous Systems Lab** (winter term 2026/27, University of Siegen), taught by Prof. Kristof Van Laerhoven. The lab is about ultra-low-power, microcontroller-based systems that sense, compute and communicate on a tiny energy budget.
 
-**Project page:** <https://kuchbestylin.github.io/ubisys-lab-2026/> ·
+**Project page:** <https://github.com/kuchbestylin/ubisys-lab-2026/> ·
 **Work board:** [Issues](https://github.com/kuchbestylin/ubisys-lab-2026/issues) ·
 [Milestones](https://github.com/kuchbestylin/ubisys-lab-2026/milestones)
 
